@@ -9,10 +9,10 @@ which can broaden my knowledge and working experience.
 
 ## Skills
 
- * **Programming**           |     Python (Conda, Numpy, FEnics, Pykep, Pygmo, Pytorch\...), Matlab & Simulink, Fortran 90, C, C++
- * **Presentation tools**     |    Office, LaTeX, MarkDown, GIMP
- * **Other technical tools**   |   Jupyter, Visual Studio Code, Git, Linux, Paraview, CATIA v5
- * **Communication**          |    Spanish (mother tongue), English (C1, 101/120 TOEFL 23/02/2019), French (A2, basic level)
+ * **Programming**           :    Python (Conda, Numpy, FEnics, Pykep, Pygmo, Pytorch\...), Matlab & Simulink, Fortran 90, C, C++
+ * **Presentation tools**     :    Office, LaTeX, MarkDown, GIMP
+ * **Other technical tools**  :   Jupyter, Visual Studio Code, Git, Linux, Paraview, CATIA v5
+ * **Communication**          :    Spanish (mother tongue), English (C1, 101/120 TOEFL 23/02/2019), French (A2, basic level)
 
 
 ## Technical Experience
