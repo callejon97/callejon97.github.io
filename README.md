@@ -1,4 +1,4 @@
-#Miguel Callejón Cantero
+# Miguel Callejón Cantero
 MSc Aerospace Engineering student at Delft University of Technology
 (TUDelft), after graduating at Technical University of Madrid (UPM).
 Very interested in space from both a scientific and technologic point of
@@ -7,20 +7,20 @@ team-working, assertivity, communication, and drive skills as my commit
 to students'associations can prove. Looking for upcoming challenges
 which can broaden my knowledge and working experience.
 
-##Skills
+## Skills
 
 
   --------------------------- -- -------------------------------------------------------------------------------------------------
-  **Programming**                Python (Conda, Numpy, FEnics, Pykep, Pygmo, Pytorch\...), Matlab & Simulink, Fortran 90, C, C++
-  **Presentation tools**         Office, LaTeX, MarkDown, GIMP
-  **Other technical tools**      Jupyter, Visual Studio Code, Git, Linux, Paraview, CATIA v5
-  **Communication**              Spanish (mother tongue), English (C1, 101/120 TOEFL 23/02/2019), French (A2, basic level)
+ * **Programming**                Python (Conda, Numpy, FEnics, Pykep, Pygmo, Pytorch\...), Matlab & Simulink, Fortran 90, C, C++
+ * **Presentation tools**         Office, LaTeX, MarkDown, GIMP
+ * **Other technical tools**      Jupyter, Visual Studio Code, Git, Linux, Paraview, CATIA v5
+ * **Communication**              Spanish (mother tongue), English (C1, 101/120 TOEFL 23/02/2019), French (A2, basic level)
   --------------------------- -- -------------------------------------------------------------------------------------------------
 
-##Technical Experience
+## Technical Experience
 
 
-###INTERN ADVANCED CONCEPTS TEAM (ACT) 08 2020 - 10 2020
+### INTERN ADVANCED CONCEPTS TEAM (ACT) 08 2020 - 10 2020
 ----------------------------------------------------
 
 *European Space Agency (ESA) Noordwijk, Zuid Holland, The Netherlands*
@@ -47,10 +47,10 @@ which can broaden my knowledge and working experience.
         the difference in position between the telescopes influences the
         final similarity.
 
-##Education
+## Education
 
 
-###Master of Science in Aerospace Engineering 09 2019 -
+### Master of Science in Aerospace Engineering 09 2019 -
 ---------------------------------------------------
 
 *Technical University of Delft (TUDelft) Delft, Zuid Holland, The
@@ -87,7 +87,7 @@ Netherlands*
 -   Literature study: Application of Taylor Series Integration to an
     astrodynamics trajectory to a binary asteroid system such as HERA.
 
-###Grado en Ingeniería Aeroespacial 09 2015 -- 07 2019
+### Grado en Ingeniería Aeroespacial 09 2015 -- 07 2019
 -------------------------------------------------
 
 *School of Aeronautical and Space Engineering (ETSIAE), Technical
@@ -104,7 +104,7 @@ University of Madrid (UPM) Madrid, Madrid, Spain*
     (Trabajo Fin de Grado, TFG): Implementation of a compressible
     Navier-Stokes solver using FEnics.
 
-##Activities
+## Activities
 ==========
 
 Student Representative in ETSIAE' Department of Applied Mathematics 09 2019 - 07 2019
