@@ -111,4 +111,4 @@ Academic Student Association: Yuri Gagarin 09 2016 - 07 2017
 
 Academic Student Association: ETSIAE Music Club (CLUBMA) 09 2016 - 07 2019
 
-Formal Education in Music (Piano) at Valladolid Music Conservatory 2004 - 07 2014
+Formal Education in Music (Piano) at Valladolid Music Conservatory 09 2004 - 07 2014
