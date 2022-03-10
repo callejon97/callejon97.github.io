@@ -71,8 +71,8 @@ Netherlands*
     -   *Shape Design Optimization of an Earth re-entry system*:
         propagating the equations of motion, finding the most suitable
         numerical integrator and propagator, to find the shape with the
-        best compromise between three objectives: minimize the heat load
-        on the vehicle, maximize its payload volume, and maximize the
+        best compromise between three objectives: minimise the heat load
+        on the vehicle, maximize its payload volume, and maximise the
         ground track of the system during re-entry.
 
 -   Literature study: Application of Taylor Series Integration to an
@@ -97,7 +97,7 @@ University of Madrid (UPM) Madrid, Madrid, Spain*
 ## Activities
 
 
-Student Representative in ETSIAE' Department of Applied Mathematics 09 2019 - 07 2019
+Student Representative in ETSIAE' Department of Applied Mathematics 09 2018 - 07 2019
 
 Academic Student Association: Yuri Gagarin, Secretary 09 2017 - 07 2019
 
