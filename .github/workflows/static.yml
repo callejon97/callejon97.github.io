@@ -1,31 +1,17 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
-
+name: Run commands on different operating systems
 on:
-  # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-# concurrency:
-#   group: "pages"
-#   cancel-in-progress: false
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
-  # Single deploy job since we're just deploying
-  test:
+  Run-npm-on-Ubuntu:
+    name: Run npm on Ubuntu
     runs-on: ubuntu-latest
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
